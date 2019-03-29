@@ -1,0 +1,13 @@
+    1  sort states.txt
+    2  cp states.txt states-sorted.txt
+    3  cd states.txt
+    4  sed states.txt 's/a/z/g' stztes.txt
+    5  ls states.txt
+    6  sed 's/a/z/g' stztes.txt
+    7  sed 's/a/z/g' states.txt
+    8  cp states.txt stztes.txt
+    9  ~/.bash_profile
+   10  refresh
+   11  ls
+   12  ~/.bash_profile
+   13  history > history.txt
