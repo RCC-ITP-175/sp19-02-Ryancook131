@@ -11,3 +11,16 @@
    11  ls
    12  ~/.bash_profile
    13  history > history.txt
+
+
+
+
+///////////////////////
+// INSTRUCTOR FEEDBACK
+///////////////////////
+// Line 7 is really close to accomplishing the task. You did replace all a to z using sed
+// but didn't save it to the new file stztes.txt. For that, use
+// sed 's/a/z/g' states.txt > stztes.txt
+
+// to edit your .bash_profile, you can use the nano tool covered 
+// in https://www.codecademy.com/courses/learn-the-command-line/lessons/environment/exercises/environment
